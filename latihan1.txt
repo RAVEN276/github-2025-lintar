@@ -2,3 +2,7 @@ Pada latihan 1 ini;
 1. membuat akun
 2. membuat repo
 3. melakukan isi di readme.txt
+
+pada latihan ini juga saya sudah;
+a. membuat file latihan1.txt
+b. mencoba membuat branch
