@@ -1,0 +1,4 @@
+Pada latihan 1 ini;
+1. membuat akun
+2. membuat repo
+3. melakukan isi di readme.txt
